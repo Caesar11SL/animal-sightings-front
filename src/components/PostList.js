@@ -12,7 +12,7 @@ function PostList({ setUserSignedIn, setAccessToken }) {
 
 
     useEffect(() => {
-        fetch('https://shielded-bayou-08137.herokuapp.com/' + postRestEndpoint)
+        fetch(process.env.REACT_APP_API_URL + postRestEndpoint)
           .then(res => res.json())
           .then(data => {
             setPosts(data)
