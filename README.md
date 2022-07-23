@@ -32,10 +32,13 @@ Basic blog app, users are able to post about animals seen on their adventures. G
 - As a user, I want to be able to signin or signup.
 - As a user, I want to be able to upload a photo from my files.
 
-## Features for the future
+### Features for the future
 - Add an interactive map with markers for each post.
 - Geolocations for each post to show on map when it was seen.
 - Ability to add upload photos from files.
+
+### End-Goal
+Ability where users have a smooth GUI and full crud for person post/comments. Along with a big map filled with markers through out the world!
 
 ### Back-end repo : [Here](https://github.com/Caesar11SL/Animal-Sightings)
 
