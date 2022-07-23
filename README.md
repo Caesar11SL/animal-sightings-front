@@ -38,7 +38,7 @@ Basic blog app, users are able to post about animals seen on their adventures. G
 - Ability to add upload photos from files.
 
 ### End-Goal
-Ability where users have a smooth GUI and full crud for person post/comments. Along with a big map filled with markers through out the world!
+Ability where users have a smooth GUI and full crud for personal post/comments. Along with a big map filled with markers through out the world!
 
 ### Back-end repo : [Here](https://github.com/Caesar11SL/Animal-Sightings)
 
